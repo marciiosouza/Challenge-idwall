@@ -1,0 +1,5 @@
+CREATE TABLE TB_CRIMES
+(
+    CrimesId NUMBER(4),
+    Descricao VARCHAR(100)
+)

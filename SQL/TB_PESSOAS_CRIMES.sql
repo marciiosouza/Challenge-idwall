@@ -1,0 +1,6 @@
+CREATE TABLE TB_PESSOAS_CRIMES
+
+(
+    CrimesId NUMBER(4),
+    SuspeitoId VARCHAR2(10)
+)
