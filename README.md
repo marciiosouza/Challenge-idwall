@@ -1,11 +1,11 @@
 ### Sistema de Gerenciamento de Pessoas Procuradas (FBI e Interpol)
 
-Este projeto tem como objetivo desenvolver um sistema para gerenciar as pessoas mais procuradas pelo FBI e Interpol, utilizando uma API REST para obter os dados das respectivas organizações.
+> Este projeto tem como objetivo desenvolver um sistema para gerenciar as pessoas mais procuradas pelo FBI e Interpol, utilizando uma API REST para obter os dados das respectivas organizações.
 
 ##
 ### 🎖️ Objetivo
 
-O objetivo principal deste sistema é fornecer uma solução eficiente e intuitiva para o gerenciamento das pessoas procuradas pelo FBI e Interpol. Por meio da integração com as APIs do FBI e Interpol, poderemos obter informações atualizadas sobre os suspeitos e facilitar o trabalho das forças policiais na localização e captura desses indivíduos.
+> O objetivo principal deste sistema é fornecer uma solução eficiente e intuitiva para o gerenciamento das pessoas procuradas pelo FBI e Interpol. Por meio da integração com as APIs do FBI e Interpol, poderemos obter informações atualizadas sobre os suspeitos e facilitar o trabalho das forças policiais na localização e captura desses indivíduos.
 
 ##
 
@@ -38,7 +38,7 @@ Classificacao
 ```
 Contador
 ```
----
+##
 ### 🚀 Tecnologias
 
 * As tecnologias que foram nutilizadas neste projeto são:
@@ -46,13 +46,11 @@ Contador
 <div>
     <img height="30em" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
     <img height="30em" alt="Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> 
-    <img height="30em" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black
-">   
+    <img height="30em" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">   
 
 </div>
 
----
-
+##
 ### 📑 Modelagem
 
 * Modelagem das entidades e relacionamentos da solução.
@@ -60,7 +58,7 @@ Contador
 ```
 
 ```
----
+##
 
 ###### Projeto Realizado por:
 - Marcio Souza 
